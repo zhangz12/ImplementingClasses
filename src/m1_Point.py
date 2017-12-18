@@ -1078,7 +1078,7 @@ def run_test_halfway_to():
     # ------------------------------------------------------------------
     # DONE: 13.  Follow the same instructions as in TO 3 above,
     #    but for the  halfway_to  method specified above.
-    # ------------------------------------------------------------------
+    # -------------------------------------------------------------------
     print()
     print('-----------------------------------------------------------')
     print('Testing the   halfway_to   method of the Point class.')
